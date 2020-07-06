@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: ad9cf93034405d14597cee64e4c9084b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IceBerg
+    21300002: HoleCircle
+    21300004: HoleSquare
+    21300006: Bone
+    21300008: Gear
+    21300010: Circle
+    21300012: SawCool
+    21300014: SawClean
+    21300016: Platform
+    21300018: Hammer
+    21300020: Circle02
+    21300022: Mace01
+    21300024: Blade01
+    21300026: Blade02
+    21300028: DinoSkull
+    21300030: Dino
+    21300032: Chain Part
+    21300034: Chain01
+    21300036: Chain02
+    21300038: Chain03
+    21300040: chain04
+    21300042: Chain05
+    21300044: Pilar
+    21300046: PlatformSlim
+    21300048: Propeller
+    21300050: Skull01
+    21300052: Skull02
+    21300054: RedLight
+    21300056: RedLightOff
+    21300058: Mace02
+    21300060: Spike
+    21300062: Blade03
+    21300064: skullSmall
+    21300066: OrnamentEye
+    21300068: SkullRed
+    21300070: Death Traps Ice Sheet02_0
+    21300072: Death Traps Ice Sheet02_1
+    21300074: Death Traps Ice Sheet02_2
+    21300076: Death Traps Ice Sheet02_3
+    21300078: Death Traps Ice Sheet02_4
+    21300080: Death Traps Ice Sheet02_5
+    21300082: Death Traps Ice Sheet02_6
+    21300084: Death Traps Ice Sheet02_7
+    21300086: Death Traps Ice Sheet02_8
+    21300088: Death Traps Ice Sheet02_9
+    21300090: Death Traps Ice Sheet02_10
+    21300092: Death Traps Ice Sheet02_11
+    21300094: Death Traps Ice Sheet02_12
+    21300096: Death Traps Ice Sheet02_13
+    21300098: Death Traps Ice Sheet02_14
+    21300100: Death Traps Ice Sheet02_15
+    21300102: Death Traps Ice Sheet02_16
+    21300104: Death Traps Ice Sheet02_17
+    21300106: Death Traps Ice Sheet02_18
+    21300108: Death Traps Ice Sheet02_19
+    21300110: Death Traps Ice Sheet02_20
+    21300112: Death Traps Ice Sheet02_21
+    21300114: Death Traps Ice Sheet02_22
+    21300116: Death Traps Ice Sheet02_23
+    21300118: Death Traps Ice Sheet02_24
+    21300120: Death Traps Ice Sheet02_25
+    21300122: Death Traps Ice Sheet02_26
+    21300124: Death Traps Ice Sheet02_27
+    21300126: Death Traps Ice Sheet02_28
+    21300128: Death Traps Ice Sheet02_29
+    21300130: Death Traps Ice Sheet02_30
+    21300132: Death Traps Ice Sheet02_31
+    21300134: Death Traps Ice Sheet02_32
+    21300136: Death Traps Ice Sheet02_33
+    21300138: Death Traps Ice Sheet02_34
+    21300140: Death Traps Ice Sheet02_35
+    21300142: Death Traps Ice Sheet02_36
+    21300144: Death Traps Ice Sheet02_37
+    21300146: Death Traps Ice Sheet02_38
+    21300148: Death Traps Ice Sheet02_39
+    21300150: Death Traps Ice Sheet02_40
+    21300152: Death Traps Ice Sheet02_41
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1534
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c16ec31e21e620428976a501aa5edb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1564
+        width: 481
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64081da46cec1d409c09251857c40ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_2
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1542
+        width: 481
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50d1742894be14b8ab4ac273f6e221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_3
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1573
+        width: 254
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e44a376646b1d43bea598e89ae5efd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_4
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1861
+        width: 224
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc671c1cd09337e4d87c2417956a971d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1251
+        width: 259
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bafd7905da59d4c9a522d1ea90634b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1077
+        width: 489
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297e9ed7fc022e4d876529fb86172a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_7
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1080
+        width: 501
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec73a67e3309a54c9a4de0e425bdf56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_8
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1508
+        width: 147
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141b4c1943e6bbb4d9573e16b3559cbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1108
+        width: 490
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36544ed61742b4d9e142d9e9d1b60d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 935
+        width: 192
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a71512e1ecc614583dac1581b048ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 577
+        width: 489
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4ae18b93c9ae24b8caa9c328a4c296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 732
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfcd82616ff2e4eb01d018e33eea7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_13
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 691
+        width: 188
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c92d06b0c13c47b4cd4f9e22300ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_14
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 740
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634624dcaab362f4b992437d88b88517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_15
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 695
+        width: 312
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f8d3405e3735499a6517174ddbfb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_16
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 740
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0455cd8a3ef02e4685e5e0a3e87287c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_17
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 678
+        width: 251
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf5ecfd54565f4d9ba7fe798d011fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_18
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 539
+        width: 42
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aae121a0a997246b4830c0c617e473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_19
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 539
+        width: 18
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbd3e430e5496e40b7880316f407fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_20
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 539
+        width: 24
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9756303db056749a78ddbc7596791d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_21
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 539
+        width: 34
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72622ea4f6858648b0b6d39329a4ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_22
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 539
+        width: 47
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dfa5b72ab6ceb4eb398ea5827d05a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_23
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 661
+        width: 146
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff38e6dc2223d4a86efac9c224266c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_24
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 613
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fada193785492499e3697c6f3dd615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_25
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 320
+        width: 249
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4507854cd8df214e93a2421d6f3a9ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_26
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 603
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e649f006461287c4388b5f703d87e3ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_27
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 606
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c99f523ef637a469b0ee358a9a246f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_28
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 380
+        width: 266
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdb80642efdadd4e98df26d24513998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_29
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 331
+        width: 216
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d6c62f8e372a14fabe11dd13950a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_30
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 576
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f3733039a93da4fb0e27215c6a68ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_31
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 574
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee7e3ee5018cc4a810b6caece1f4e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 71
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07289c913a47594aa134bdb492de868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_33
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 18
+        width: 468
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d7edc9b53b86f468bf68a2a718a832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_34
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 320
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877b4e5cc30a2d45a64c8e893ff9c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_35
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 357
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b76383f145601044886e8587351de88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_36
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 11
+        width: 63
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4855c921048b764199ba179e5de224e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_37
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 318
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d5587e02159f419b9f0168c096307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_38
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 17
+        width: 291
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f20fabb42d2493489f3190f759bb3de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_39
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 27
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244713b37626c95488d21615805ac8f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_40
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 178
+        width: 512
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c52de4076c644099f16c45f46f9c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Traps Ice Sheet02_41
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 44
+        width: 192
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ddc8eb9f5bd44fb65767367f5f03d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bafc69f09e418854e8ebb7ff15aa1942
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
